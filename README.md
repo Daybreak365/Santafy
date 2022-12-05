@@ -4,5 +4,5 @@
 ### 개발: [새벽](https://github.com/Daybreak365)
 <br/>
 
-**📋 License**<br>
+## **📋 License**<br>
 [MIT License](https://github.com/Daybreak365/Santafy/blob/master/license.txt)에 따라 자유롭게 이용하실 수 있습니다.
