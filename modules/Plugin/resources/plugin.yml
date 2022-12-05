@@ -1,0 +1,6 @@
+name: Santafy
+main: kr.saebyeok.santafy.Santafy
+version: ${project.version}
+commands:
+  santa:
+    description: santa
